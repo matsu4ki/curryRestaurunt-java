@@ -8,6 +8,7 @@ import procedure.MuttonCurryCooking;
 public class Main {
     public static void main(String[] args) {
         System.out.println("注文をどうぞ");
+        System.out.println("==================");
 
         // 注文
         var muttonCurryCooking = new MuttonCurryCooking();
